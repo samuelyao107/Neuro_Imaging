@@ -1,1 +1,1 @@
-# Adaboost_and_SVM
+# Neuro_Imaging
